@@ -1,4 +1,4 @@
-# PDF Document Processing with RAG and AWS Bedrock
+# Amazon Bedrock RAG with LangChain
 
 A Python-based document processing system that leverages Retrieval Augmented Generation (RAG) using AWS Bedrock and Chroma Vector DB for efficient document search and retrieval.
 
